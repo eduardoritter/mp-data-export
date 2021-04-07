@@ -1,7 +1,7 @@
 {
   "name": "mp-data-export",
   "version": "1.0.0",
-  "description": "Data Export",
+  "description": "MP Data Export",
   "main": "index.js",
   "scripts": {
     "start": "node ./src/index.js",
